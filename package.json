@@ -4,7 +4,7 @@
   "author": "Jeremy Ebert",
   "version": "0.0.4",
   "dependencies": {
-        "usb": "^1.6.0"
+        "usb": "^2.1.2"
     },
     "repository": {
     "type": "git",
